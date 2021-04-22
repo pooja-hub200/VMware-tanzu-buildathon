@@ -1,2 +1,2 @@
 # VMware-tanzu-buildathon
-This repository is consisting of project files. 
+This repository is consisting of digital payment book project files. 
